@@ -4,4 +4,6 @@ React Portifolio || Javascript mastery
 
   3D Portifolio Course - Built using React - Tailwind - THREE.JS
 
+Live version = https://cheerful-chebakia-dbc6f5.netlify.app/
+
   ![image](https://github.com/joroinnoroff/React-Portifolio-JM/assets/112621392/ac0dbab9-ffb8-479d-8718-8380a01e1b4b)
